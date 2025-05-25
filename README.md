@@ -9,6 +9,8 @@ Change the resolution of any app/game on Android 13+
 ### Source Code 
  Source code will be published soon once the app is more polished 
 
+However for the time being all my apks are built without obfuscation as to keep things transparent to users who might be uncomfortable with a closed source app
+
  ## Links
 - [Telegram Channel](https://t.me/danmgk)
 - [PayPal](https://www.paypal.com/donate/?hosted_button_id=BJAJW4755BXFY)
